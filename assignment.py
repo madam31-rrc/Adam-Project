@@ -7,8 +7,4 @@ Usage: python Hello_World.py
 # English
 print ("Hello World!" )
 
-# French 
-print("Bonjour le monde!")
 
-# Dutch
-print("Hallo Wereld!")
