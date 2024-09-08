@@ -49,3 +49,7 @@ git branch: Manages branches (list, create, delete).
 git merge: Merges changes from one branch into another.
 
 git checkout: Switches branches or restores files.
+
+## First git status output:
+
+Your branch is up to date with 'origin/main'.
